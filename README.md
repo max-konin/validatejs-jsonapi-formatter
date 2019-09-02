@@ -1,0 +1,1 @@
+# validatsjs-jsonapi-formatter
